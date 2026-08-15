@@ -1,5 +1,5 @@
 // easiest way to grab your token is just to open Network Tab with DevTools, do literally anything, check reqheaders and grab 'Authorization' key
-// this completely purges all your favorite gifs, if you like some, back them up.
+// this completely purges all your favorite gifs, if you like some, back them up
 const token = "xxxx";
 
 // empty proto (f2, length-delimited, 0 bytes) 
